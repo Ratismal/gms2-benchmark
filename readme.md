@@ -6,6 +6,8 @@ This is a project to do a simple benchmark of GameMaker's various data structure
 
 To run, simply clone the project and run. You may look at the `init` script to define the tests that are run, and how many loops are run of each.
 
+Results will be outputted in console.
+
 ## Tests
 
 The current tests I've done are:
